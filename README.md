@@ -16,6 +16,14 @@ Here are the things that you would require before you get started
 1. [Install git](https://www.atlassian.com/git/tutorials/install-git)
 1. [Install golang](https://golang.org/doc/install)
 
+### Using Disk
+
+You can install it into your project using
+
+```bash
+dep ensure -add github.com/build-tanker/disk
+```
+
 ### Installing
 
 Clone the repo and build it
